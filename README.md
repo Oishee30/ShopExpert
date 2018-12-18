@@ -4,7 +4,7 @@ It is a website that brings all the online pages of Bangladesh under one platfor
 <h3> Tools </h3>
 <ul>
 <li>Visual Studio 2017</li>
-<li>ASP.NET/li>
+<li>ASP.NET</li>
 <li>MVC Framework</li>
 </ul>
 
@@ -40,5 +40,5 @@ It is a website that brings all the online pages of Bangladesh under one platfor
 <li>Customers can see a page’s information in the page profile. </li>
 <li>Customers can also see the offers. </li>
 <li>Customers can rate a page. </li>
-<li>User can search any pages by category type<li>
+<li>User can search any pages by category type</li>
 </ul>
